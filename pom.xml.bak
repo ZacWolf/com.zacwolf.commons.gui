@@ -5,23 +5,23 @@
 	>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.zacwolf</groupId>
-	<artifactId>com.zacwolf.commons.gui</artifactId>
+	<artifactId>com.zacwolf.commons</artifactId>
 	<version>2.0</version>
 	
 	<name>ZacWolf Commons</name>
 	<description>Common Utility classes I've developed over the years</description>
-	<url>https://github.com/ZacWolf/com.zacwolf.commons.gui</url>
+	<url>https://github.com/ZacWolf/com.zacwolf.commons</url>
 	<organization>
 		<name>ZacWolf</name>
 		<url>https://www.zacwolf.com</url>
 	</organization>
 	<issueManagement>
-		<url>https://github.com/ZacWolf/com.zacwolf.commons.gui/issues</url>
+		<url>https://github.com/ZacWolf/com.zacwolf.commons/issues</url>
 		<system>GitHub</system>
 	</issueManagement>
 	<scm>
-		<connection>scm:git:https://github.com/ZacWolf/com.zacwolf.commons.gui.git</connection>
-		<url>https://github.com/ZacWolf/com.zacwolf.commons.gui</url>
+		<connection>scm:git:https://github.com/ZacWolf/com.zacwolf.commons.git</connection>
+		<url>https://github.com/ZacWolf/com.zacwolf.commons</url>
 		<tag>HEAD</tag>
 	</scm>
 	<licenses>

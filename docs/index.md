@@ -1,3 +1,3 @@
-## com.zacwolf.commons
+## com.zacwolf.commons.gui
 
-Template repository for future com.zacwolf.commons projects
+Java 1.8 based commons library for GUI componants (Swing/AWT)
